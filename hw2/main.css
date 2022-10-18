@@ -1,0 +1,15 @@
+.father{
+    display: flex;
+    flex-direction: column;
+}
+.child_1{
+    background: blue;
+    width: 40%;
+    height: 300px;
+}
+.child_2{
+
+}
+.child_3{
+    background: blue;
+}
